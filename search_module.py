@@ -19,7 +19,7 @@ def link_scrapper(link: str):
         ]
     }
     headers = {
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer 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",
         "Content-Type": "application/json"
     }
 
